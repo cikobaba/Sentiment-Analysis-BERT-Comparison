@@ -10,7 +10,7 @@
 [cite_start]The primary goal of this research is to compare state-of-the-art transformer architectures to identify the most suitable model for small businesses operating with limited customer feedback[cite: 25, 30].
 
 ### Technical Workflow & Implementation
-[cite_start]The implementation follows a structured pipeline as described in the thesis methodology (**Fig. 1.9**)[cite: 467, 499, 500]:
+[cite_start]The implementation follows a structured pipeline as described in the thesis methodology [cite: 467, 499, 500]:
 
 * [cite_start]**Data Acquisition**: Loading raw data from Shopify CSV/Excel exports using `pandas`[cite: 348, 471].
 * **Preprocessing**:
@@ -25,9 +25,9 @@
 ## 📁 Repository Structure
 [cite_start]The models are separated into individual notebooks to highlight architectural differences and facilitate independent testing[cite: 314, 452]:
 
-1.  [cite_start]`01_BERT_Analysis.ipynb`: Implementation of the `bert-base-uncased` model[cite: 230].
-2.  [cite_start]`02_RoBERTa_Analysis.ipynb`: Implementation of the `roberta-base` model[cite: 236].
-3.  [cite_start]`03_DistilBERT_Analysis.ipynb`: Implementation of the `distilbert-base-uncased` model[cite: 263, 269].
+1.  [cite_start]`bert_(1).ipynb`: Implementation of the `bert-base-uncased` model[cite: 230].
+2.  [cite_start]`roberta.ipynb`: Implementation of the `roberta-base` model[cite: 236].
+3.  [cite_start]`distilbert.ipynb`: Implementation of the `distilbert-base-uncased` model[cite: 263, 269].
 
 ---
 
