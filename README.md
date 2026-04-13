@@ -49,5 +49,5 @@
 * [cite_start]**Student**: Anil Kaya (Student ID: 211ADB103) [cite: 4, 6]
 * **Scientific Adviser**: Assoc. [cite_start]Prof. Ingars Eriņš [cite: 9, 10]
 * [cite_start]**Institution**: Riga Technical University (RTU), 2026 [cite: 1, 11]
-
+* **Shopify Website**:https://petpacify.us/
 ---
